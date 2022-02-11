@@ -19,7 +19,7 @@ Will Be uploading new Problem daily.
 
 #### Softwares I need to have in order to run this locally
 
-Node.js (any verion)
+Node.js (any version)
 
 
 
