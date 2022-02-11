@@ -1,5 +1,6 @@
-//Given two array, find fi the second array id a sub-qequence of the first. 
+//Given two array, find if the second array is a sub-qequence of the first. 
 // input : arr1=[3,5,2,4,1,6,4,2,3,7,5], arr2=[2,1,2,3]
+//output : true
 
 
 //Time Complexity: O(n)     Spcae Complexity: O(1);
